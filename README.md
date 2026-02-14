@@ -111,10 +111,11 @@ MSCS_634_ProjectDeliverable_1/
 2. **Download the dataset:**
 
    The CSV is not included in the repository due to GitHub's file-size limits. Download it from either source and place it in the project root directory:
-   - **Kaggle:** [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail) — click *Download* and extract `OnlineRetail.csv`.
+   - **Kaggle:** [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail) — click _Download_ and extract `OnlineRetail.csv`.
    - **UCI ML Repository:** [Online Retail](https://archive.ics.uci.edu/ml/datasets/online+retail) — download the Excel file, open it, and export as CSV.
 
    After downloading, your directory should contain:
+
    ```
    MSCS_634_ProjectDeliverable_1/
    ├── OnlineRetail.csv    ← place the file here

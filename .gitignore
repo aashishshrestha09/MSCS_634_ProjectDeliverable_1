@@ -1,24 +1,24 @@
 # .gitignore — MSCS 634 Project Deliverable 1
 
-# ---------- Dataset (too large for GitHub) ----------
+# Dataset (too large for GitHub)
 # Download manually from the link in README.md
 OnlineRetail.csv
 
-# ---------- Python ----------
+# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
 dist/
 build/
 
-# ---------- Virtual Environments ----------
+# Virtual Environments
 venv/
 .venv/
 env/
 
-# ---------- Jupyter Notebook ----------
+# Jupyter Notebook
 .ipynb_checkpoints/
 
-# ---------- OS ----------
+# OS
 .DS_Store
 Thumbs.db
