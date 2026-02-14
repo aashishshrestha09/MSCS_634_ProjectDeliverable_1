@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Dataset Summary
+## Dataset Summary
 
 | Property        | Value                                                                                        |
 | --------------- | -------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
 
 | Step | Action                                     | Records Affected | Justification                                                                                                                       |
 | ---- | ------------------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@
 
 ---
 
-## 🔍 Key Insights from Exploratory Data Analysis
+## Key Insights from Exploratory Data Analysis
 
 1. **Right-Skewed Distributions:** Quantity, UnitPrice, and TotalPrice are all heavily right-skewed (skewness > 10), indicating that most transactions involve small quantities at low prices, with a long tail of high-value orders. _Implication:_ Log-transformation will be needed for regression modeling.
 
@@ -65,7 +65,7 @@
 
 ---
 
-## ⚠️ Challenges Encountered and Solutions
+## Challenges Encountered and Solutions
 
 | Challenge                                                 | Solution                                                                                                                                             |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 MSCS_634_ProjectDeliverable_1/
@@ -92,7 +92,7 @@ MSCS_634_ProjectDeliverable_1/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Prerequisites
 
